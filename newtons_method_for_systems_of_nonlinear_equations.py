@@ -1,7 +1,6 @@
 # Метод Ньютона решения системы из 2-х нелинейных уравнений
 
 from math import cos, sin
-
 import numpy as np
 from tabulate import tabulate
 
